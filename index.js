@@ -10,6 +10,7 @@ function writeCards(names,event) {
 }
 writeCards(["Ada", "Brendan", "Ali"], "birthday");
 
+
 function countDown(nb) {  
   while (nb >= 0) {
   console.log(nb--);
