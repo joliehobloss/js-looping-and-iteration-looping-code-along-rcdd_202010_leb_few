@@ -8,8 +8,8 @@ function writeCards(names,event) {
   }
   return print;
 }
-
 writeCards(["Ada", "Brendan", "Ali"], "birthday");
+
 function countDown(nb) {  
   while (nb >= 0) {
   console.log(nb--);
